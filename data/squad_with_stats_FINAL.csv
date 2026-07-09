@@ -1,0 +1,258 @@
+team_no,team_name,player,nationality,role,designation,t20_batting_avg,t20_bowling_avg,t20_batting_sr,t20_bowling_sr,t20_bowling_econ,ipl_batting_avg,ipl_bowling_avg,ipl_batting_sr,ipl_bowling_sr,ipl_bowling_econ
+1,Mumbai Indians,Hardik Pandya,Indian,All Rounder,Captain,27.35,26.58,141.02,19.4,8.22,28.69,33.59,145.62,22.16,9.1
+1,Mumbai Indians,Rohit Sharma,Indian,Batter,,,,,,,,,,,
+1,Mumbai Indians,Suryakumar Yadav,Indian,Batter,,37.08,2.5,164.21,3.0,5.0,32.09,0.0,145.33,0.0,8.0
+1,Mumbai Indians,Jasprit Bumrah,Indian,Bowler,,2.67,17.85,57.15,16.85,6.36,9.71,22.52,87.18,18.5,7.3
+1,Mumbai Indians,Ryan Rickelton,Overseas,Wicket Keeper,,21.17,0.0,134.16,0.0,0.0,29.85,0.0,150.98,0.0,0
+1,Mumbai Indians,Sherfane Rutherford,Overseas,Batter,,20.93,46.0,139.53,27.0,10.22,15.14,59.0,101.92,41.0,8.63
+1,Mumbai Indians,Naman Dhir,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,23.33,0.0,177.22,0.0,11.79
+1,Mumbai Indians,Will Jacks,Overseas,All Rounder,,17.43,26.33,135.48,16.0,9.88,32.86,50.0,175.57,27.0,11.11
+1,Mumbai Indians,Shardul Thakur,Indian,All Rounder,,23.0,23.39,181.58,15.33,9.15,12.28,30.52,138.91,19.85,9.23
+1,Mumbai Indians,Trent Boult,Overseas,Bowler,,8.29,21.43,90.63,16.73,7.68,10.38,26.69,106.41,19.31,8.29
+1,Mumbai Indians,AM Ghazanfar,Overseas,Bowler,,3.5,87.0,87.5,72.0,7.25,0,0.0,0,0.0,0
+1,Mumbai Indians,Mitchell Santner,Overseas,All Rounder,,16.7,22.88,120.1,19.39,7.08,11.67,28.13,98.59,24.4,6.92
+1,Mumbai Indians,Tilak Varma,Indian,Batter,,53.44,14.67,149.15,15.0,5.87,39.86,0.0,146.33,0.0,7.64
+1,Mumbai Indians,Quinton de Kock,Overseas,Wicket Keeper,,31.14,0.0,138.09,0.0,0.0,31.26,-,134.23,-,-
+1,Mumbai Indians,Robin Minz,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,3,0.0,40.00,0.0,0
+1,Mumbai Indians,Deepak Chahar,Indian,Bowler,,26.5,24.1,189.29,17.42,8.3,11.43,28.84,135.59,21.68,7.98
+1,Mumbai Indians,Ashwani Kumar,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,,,,,
+1,Mumbai Indians,Mayank Markande,Indian,Bowler,,0.0,0.0,0.0,0.0,7.75,16.0,28.89,114.29,19.46,8.91
+1,Mumbai Indians,Raj Bawa,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,5.5,-,78.57,-,-
+1,Mumbai Indians,Corbin Bosch,Overseas,All Rounder,,18.87,45.05,120.8,33.1,8.16,23.5,55.0,146.88,42.0,7.86
+1,Mumbai Indians,Danish Malewar,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+1,Mumbai Indians,Atharva Ankolekar,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+1,Mumbai Indians,Mayank Rawat,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+1,Mumbai Indians,Raghu Sharma,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+1,Mumbai Indians,Mohd Izhar,Indian,Bowler,,,,,,,,,,,
+2,Chennai Super Kings,Ruturaj Gaikwad,Indian,Batter,Captain,39.56,0.0,143.54,0.0,0.0,41.75,-,136.86,-,-
+2,Chennai Super Kings,Dewald Brevis,Overseas,Batter,,34.5,0.0,192.74,0.0,0.0,23.0,8.0,133.72,3.0,0.0
+2,Chennai Super Kings,MS Dhoni,Indian,Wicket Keeper,,37.6,0.0,126.14,0.0,0.0,39.13,-,137.54,-,-
+2,Chennai Super Kings,Kartik Sharma,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+2,Chennai Super Kings,Sarfaraz Khan,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,22.5,0.0,130.58,0.0,0.0
+2,Chennai Super Kings,Ayush Matre,Indian,Batter,,,,,,,,,,,
+2,Chennai Super Kings,Urvil Patel,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,22.67,0.0,212.50,0.0,0
+2,Chennai Super Kings,Sanju Samson,Indian,Wicket Keeper,,26.13,0.0,147.99,0.0,0.0,30.69,-,138.96,-,-
+2,Chennai Super Kings,Aman Khan,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+2,Chennai Super Kings,Shivam Dubey,Indian,All Rounder,,,,,,,,,,,
+2,Chennai Super Kings,Zak Foulkes,Overseas,All Rounder,,,,,,,,,,,
+2,Chennai Super Kings,Ramakrishna Ghosh,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+2,Chennai Super Kings,Anshul Kamboj,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0.0,57.0,100.0,30.0,11.4
+2,Chennai Super Kings,Jamie Overton,Overseas,All Rounder,,9.0,17.8,108.0,13.0,8.22,0,0.0,214.29,0.0,13.83
+2,Chennai Super Kings,Matthew Short,Overseas,All Rounder,,22.07,15.38,156.88,8.25,11.18,19.5,0.0,127.17,0.0,6.25
+2,Chennai Super Kings,Prashant Veer,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+2,Chennai Super Kings,Khaleel Ahmed,Indian,Bowler,,0.0,35.13,50.0,24.75,8.52,0.2,25.42,14.29,17.24,8.84
+2,Chennai Super Kings,Rahul Chahar,Indian,Bowler,,5.0,23.86,100.0,18.86,7.59,8.06,28.55,104.03,22.19,7.72
+2,Chennai Super Kings,Shreyas Gopal,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,12.86,25.92,106.51,19.06,8.16
+2,Chennai Super Kings,Matt Henry,Overseas,Bowler,,5.0,22.38,83.34,16.1,8.34,-,90.5,-,51.0,10.65
+2,Chennai Super Kings,Gurjapneet Singh,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+2,Chennai Super Kings,Akeal Hosein,Overseas,Bowler,,15.26,26.62,111.97,22.21,7.19,0.0,40.0,160.0,24.0,10.0
+2,Chennai Super Kings,Mukesh Choudhary,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,6.0,28.19,100.0,17.44,9.7
+2,Chennai Super Kings,Spencer Johnson,Overseas,Bowler,,0.0,17.07,0.0,11.43,8.96,0.0,37.75,85.71,24.0,9.44
+2,Chennai Super Kings,Noor Ahmad ,Overseas,Bowler,,,,,,,,,,,
+2,Chennai Super Kings,Nathan Ellis,Overseas,Bowler,,6.0,18.8,60.0,14.39,7.84,4.75,28.22,76.0,19.67,8.61
+3,Kolkata Night Riders,Ajinkya Rahane,Indian,Batter,Captain,20.83,0.0,113.3,0.0,0.0,30.14,5.0,123.42,6.0,5.0
+3,Kolkata Night Riders,Rinku Singh,Indian,Batter,,42.31,1.5,161.77,3.0,3.0,30.79,-,143.34,-,-
+3,Kolkata Night Riders,Finn Allen,Overseas,Batter,,25.2,0.0,163.28,0.0,0.0,0,0.0,0,0.0,0
+3,Kolkata Night Riders,Rahul Tripathi,Indian,Batter,,19.4,0.0,144.78,0.0,0.0,26.94,0.0,139.31,0.0,12.0
+3,Kolkata Night Riders,Manish Pandey,Indian,Batter,,44.31,0.0,126.16,0.0,0.0,29.17,-,121.11,-,-
+3,Kolkata Night Riders,Rovman Powell,Overseas,Batter,,25.67,43.4,141.45,26.2,9.94,18.95,35.0,147.54,18.0,11.67
+3,Kolkata Night Riders,Angkrish Raghuvanshi,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,23.29,-,155.24,-,-
+3,Kolkata Night Riders,Ramandeep Singh,Indian,Batter,,15.0,42.0,250.0,20.0,12.6,28.33,10.5,166.67,6.67,9.45
+3,Kolkata Night Riders,Sarthak Ranjan,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+3,Kolkata Night Riders,Tim Seifert,Overseas,Wicket Keeper,,29.46,0.0,141.94,0.0,0.0,8.67,-,113.04,-,-
+3,Kolkata Night Riders,Tejasvi Dahiya,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+3,Kolkata Night Riders,Daksh Kamra,Indian,All Rounder,,,,,,,,,,,
+3,Kolkata Night Riders,Sunil Narine,Overseas,All Rounder,,10.33,21.25,112.32,21.19,6.02,17.04,25.39,165.84,22.64,6.73
+3,Kolkata Night Riders,Cameron Green,Overseas,All Rounder,,32.56,23.25,160.31,15.67,8.9,41.59,41.5,153.7,27.44,9.08
+3,Kolkata Night Riders,Rachin Ravindra,Overseas,All Rounder,,20.0,21.0,137.31,19.29,6.53,22.2,0.0,160.87,0.0,3.5
+3,Kolkata Night Riders,Anukul Roy,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,8.67,38.2,108.33,27.2,8.43
+3,Kolkata Night Riders,Vaibhav Arora,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,4.5,30.84,56.25,20.16,9.18
+3,Kolkata Night Riders,Saurabh Dubey,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+3,Kolkata Night Riders,Kartik Tyagi,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,3.25,47.53,81.25,28.13,10.14
+3,Kolkata Night Riders,Navdeep Saini,Indian,Bowler,,0.0,18.08,109.1,15.15,7.16,8.25,42.35,89.19,28.61,8.88
+3,Kolkata Night Riders,Prashant Solanki,Indian,Bowler,,0.0,26.0,0.0,24.0,6.5,-,19.0,-,18.0,6.33
+3,Kolkata Night Riders,Umran Malik,Indian,Bowler,,0.0,22.09,250.0,12.64,10.49,11.5,26.62,143.75,17.0,9.4
+3,Kolkata Night Riders,Akash Deep,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,9.5,45.57,158.33,23.43,11.67
+3,Kolkata Night Riders,Varun Chakravarthy,Indian,Bowler,,,,,,,,,,,
+3,Kolkata Night Riders,Harshit Rana,Indian,Bowler,,0.0,22.4,162.5,13.2,10.18,1.0,23.24,66.67,15.4,9.05
+3,Kolkata Night Riders,Mustafizur Rahman,Overseas,Bowler,,4.95,21.02,75.0,17.21,7.33,13.0,28.89,56.52,21.28,8.14
+3,Kolkata Night Riders,Blessing Muzarabani,Overseas,Bowler,,3.27,22.35,68.06,18.77,7.15,0,0.0,0,0.0,0
+3,Kolkata Night Riders,Matheesha Pathirana,Overseas,Bowler,,3.4,18.39,53.13,12.65,8.72,-,17.41,-,13.26,7.88
+4,Royal Challengers Bengaluru,Rajat Patidar,Indian,Batter,Captain,0.0,0.0,0.0,0.0,0.0,34.74,-,158.85,-,-
+4,Royal Challengers Bengaluru,Virat Kohli,Indian,Batter,,48.7,51.0,137.05,38.0,8.05,38.67,92.0,131.97,62.75,8.8
+4,Royal Challengers Bengaluru,Tim David,Overseas,Batter,,36.76,51.0,168.2,32.8,9.33,28.65,-,170.28,-,-
+4,Royal Challengers Bengaluru,Devdutt Padikal,Indian,Batter,,,,,,,,,,,
+4,Royal Challengers Bengaluru,Phil Salt,Overseas,Wicket Keeper,,,,,,,,,,,
+4,Royal Challengers Bengaluru,Jitesh Sharma,Indian,Wicket Keeper,,14.29,0.0,147.06,0.0,0.0,22.81,-,151.14,-,-
+4,Royal Challengers Bengaluru,Jordan Cox,Overseas,Wicket Keeper,,22.0,0.0,131.35,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Venkatesh Iyer,Indian,All Rounder,,33.25,15.0,162.2,11.0,8.18,31.57,47.67,137.13,27.0,10.59
+4,Royal Challengers Bengaluru,Krunal Pandya,Indian,All Rounder,,24.8,36.93,130.53,27.33,8.11,21.96,34.29,132.82,27.92,7.37
+4,Royal Challengers Bengaluru,Mangesh Yadav,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Vihaan Malhotra,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Jacob Bethell,Overseas,All Rounder,,30.15,27.75,155.56,16.5,10.09,33.5,0.0,171.80,0.0,0
+4,Royal Challengers Bengaluru,Romario Shepherd,Overseas,All Rounder,,24.7,29.28,142.53,17.38,10.11,23.0,64.25,182.54,31.5,12.24
+4,Royal Challengers Bengaluru,Kanishk Chouhan,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Jacob Duffy,Overseas,Bowler,,5.25,18.21,80.77,14.6,7.48,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Josh Hazlewood,Overseas,Bowler,,9.67,21.62,103.58,17.18,7.55,0.0,23.14,67.86,17.23,8.06
+4,Royal Challengers Bengaluru,Nuwan Thushara,Overseas,Bowler,,4.5,20.94,52.95,15.81,7.95,-,32.12,-,19.5,9.88
+4,Royal Challengers Bengaluru,Bhuvneshwar Kumar,Indian,Bowler,,8.38,23.1,71.28,19.9,6.96,8.74,27.23,93.87,21.6,7.56
+4,Royal Challengers Bengaluru,Yash Dayal,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0.0,32.86,0.0,20.61,9.57
+4,Royal Challengers Bengaluru,Suyash Sharma,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,-,37.2,-,25.8,8.65
+4,Royal Challengers Bengaluru,Swapnil Singh,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,10.2,34.43,113.33,23.14,8.93
+4,Royal Challengers Bengaluru,Rasikh Salam,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,8.0,37.67,100.0,21.67,10.43
+4,Royal Challengers Bengaluru,Vicky Ostwal,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Satvik Deswal,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+4,Royal Challengers Bengaluru,Abhinandan Singh,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Shubman Gill,Indian,Batter,Captain,28.2,0.0,141.29,0.0,0.0,37.84,-,135.7,-,-
+5,Gujrat Titans,Sai Sudharsan,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,47.0,-,139.17,-,-
+5,Gujrat Titans,Shahrukh Khan,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,19.75,0.0,141.43,0.0,7.5
+5,Gujrat Titans,Jos Buttler,Overseas,Wicket Keeper,,35.5,0.0,148.98,0.0,0.0,38.11,-,147.53,-,-
+5,Gujrat Titans,Tom Banton,Overseas,Wicket Keeper,,23.44,0.0,149.12,0.0,0.0,9.0,-,90.0,-,-
+5,Gujrat Titans,Anuj Rawat,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,19.88,-,119.1,-,-
+5,Gujrat Titans,Kumar Kushagra,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,1.0,-,42.86,-,-
+5,Gujrat Titans,Washington Sundar,Indian,All Rounder,,13.79,23.5,121.39,20.31,6.94,14.0,35.81,116.31,28.49,7.54
+5,Gujrat Titans,Rahul Tewatia,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,25.32,34.72,134.71,26.34,7.91
+5,Gujrat Titans,Manav Suthar,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,50.0,0.0,13.0
+5,Gujrat Titans,Nishant Sindhu,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Rashid Khan,Overseas,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Glenn Phillips,Overseas,All Rounder,,31.1,26.17,140.53,21.33,7.36,9.29,20.0,118.18,15.0,8.0
+5,Gujrat Titans,Jason Holder,Overseas,All Rounder,,17.9,27.61,137.14,19.15,8.65,12.33,27.57,123.33,18.77,8.81
+5,Gujrat Titans,Arshad Khan,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Ashok Sharma,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Kulwant Khejroliya,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,-,43.4,-,24.2,10.76
+5,Gujrat Titans,Gurnoor Brar,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,-,0.0,-,0.0,14.0
+5,Gujrat Titans,Mohammed Siraj,Indian,Bowler,,7.0,32.29,87.5,24.86,7.79,10.9,30.34,91.6,21.05,8.65
+5,Gujrat Titans,Prasidh Krishna,Indian,Bowler,,0.0,27.5,0.0,15.0,11.0,3.0,34.76,37.5,23.37,8.92
+5,Gujrat Titans,Sai Kishore,Indian,Bowler,,0.0,15.75,0.0,18.0,5.25,13.0,19.85,216.67,14.31,8.32
+5,Gujrat Titans,Ishant Sharma,Indian,Bowler,,8.0,50.0,88.89,34.75,8.63,9.5,34.48,82.61,25.1,8.24
+5,Gujrat Titans,Jayant Yadav,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,10.0,55.62,111.11,48.75,6.85
+5,Gujrat Titans,Prithvi Raj,Indian,Bowler,,,,,,,,,,,
+5,Gujrat Titans,Luke Wood,Overseas,Bowler,,0.0,70.0,0.0,60.0,7.0,0,0.0,0,0.0,0
+5,Gujrat Titans,Kagiso Rabada,Overseas,Bowler,,15.33,27.16,117.2,19.34,8.43,12.12,21.97,106.74,15.54,8.48
+6,Rajasthan Royals,Riyan Parag,Indian,Batter,Captain,17.67,20.75,151.43,18.5,6.73,24.44,76.75,135.14,43.75,10.53
+6,Rajasthan Royals,Aman Rao,Indian,Batter,,,,,,,,,,,
+6,Rajasthan Royals,Shubham Dubey,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+6,Rajasthan Royals,Shimron Hetmyer,Overseas,Batter,,20.59,0.0,126.08,0.0,0.0,31.07,-,153.08,-,-
+6,Rajasthan Royals,Yashasvi Jaiswal,Indian,Batter,,36.15,0.0,164.32,0.0,11.0,32.14,0.0,150.61,0.0,0.0
+6,Rajasthan Royals,Ravi Singh,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+6,Rajasthan Royals,Vaibhav Sooryavanshi,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,36,0.0,206.56,0.0,0
+6,Rajasthan Royals,Dhruv Jurel,Indian,Wicket Keeper,,4.0,0.0,52.18,0.0,0.0,23.13,-,151.53,-,-
+6,Rajasthan Royals,Lhuan-dre Pretorius,Overseas,Wicket Keeper,,14.27,0.0,122.66,0.0,0.0,0,0.0,0,0.0,0
+6,Rajasthan Royals,Ravindra Jadeja,Indian,All Rounder,,21.46,29.85,127.17,25.11,7.13,27.4,30.4,129.72,23.93,7.62
+6,Rajasthan Royals,Sam Curran,Overseas,All Rounder,,17.31,27.44,131.58,19.35,8.51,25.23,32.76,136.48,20.36,9.65
+6,Rajasthan Royals,Dasun Shanaka,Overseas,All Rounder,,20.54,22.87,123.71,16.74,8.2,13.0,-,100.0,-,-
+6,Rajasthan Royals,Donovan Ferreira,Overseas,All Rounder,,18.71,0.0,177.03,0.0,9.82,4.0,-,72.73,-,-
+6,Rajasthan Royals,Jofra Archer,Overseas,Bowler,,11.71,23.34,132.26,17.55,7.98,15.31,24.4,155.47,19.69,7.43
+6,Rajasthan Royals,Nandre Burger,Overseas,Bowler,,7.66,21.26,56.09,17.1,7.18,-,20.71,-,14.57,8.53
+6,Rajasthan Royals,Adam Milne,Overseas,Bowler,,8.3,24.66,96.52,17.8,8.31,5.75,46.71,79.31,29.57,9.48
+6,Rajasthan Royals,Kwena Maphaka,Overseas,Bowler,,9.5,27.6,79.17,17.07,9.7,-,89.0,-,36.0,14.83
+6,Rajasthan Royals,Vignesh Puthur,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,18.17,0,12.0,9.08
+6,Rajasthan Royals,Sandeep Sharma,Indian,Bowler,,0.0,73.0,100.0,42.0,10.43,9.0,27.07,77.14,20.6,7.89
+6,Rajasthan Royals,Brijesh Sharma,Indian,Bowler,,,,,,,,,,,
+6,Rajasthan Royals,Sushant Mishra,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+6,Rajasthan Royals,Ravi Bishnoi,Indian,Bowler,,7.86,19.38,130.96,15.8,7.36,4.0,29.14,64.0,22.4,7.81
+6,Rajasthan Royals,Kuldeep Sen,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0.0,27.64,0.0,17.21,9.63
+6,Rajasthan Royals,Yash Raj Punja,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+6,Rajasthan Royals,Tushar Deshpande,Indian,Bowler,,0.0,28.0,0.0,18.0,9.33,21.0,29.6,150.0,18.4,9.65
+6,Rajasthan Royals,Yudhvir Singh,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,5.5,30.5,137.5,18.0,10.17
+7,Sunrisers Hyderabad,Ishan Kishan,Indian,Wicket Keeper,Captain,25.68,0.0,124.38,0.0,0.0,28.43,-,135.87,-,-
+7,Sunrisers Hyderabad,Travis Head,Overseas,Batter,,29.82,56.0,156.11,36.0,9.33,36.76,56.5,173.87,29.0,11.69
+7,Sunrisers Hyderabad,Aniket Verma,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,26.22,0.0,166.20,0.0,0
+7,Sunrisers Hyderabad,Ravichandran Smaran,Indian,Batter,,,,,,,,,,,
+7,Sunrisers Hyderabad,Heinrich Klaasen,Overseas,Wicket Keeper,,23.26,0.0,141.85,0.0,14.0,38.19,-,168.31,-,-
+7,Sunrisers Hyderabad,Salil Arora,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Abhishek Sharma,Indian,All Rounder,,36.91,28.33,196.08,21.0,8.1,25.48,35.36,155.13,24.55,8.64
+7,Sunrisers Hyderabad,Harsh Dubey,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,19.6,0,12.0,9.8
+7,Sunrisers Hyderabad,Krains Fuletra,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Harshal Patel,Indian,All Rounder,,12.83,26.55,135.09,17.34,9.18,9.22,23.33,122.66,16.01,8.74
+7,Sunrisers Hyderabad,Shivam Mavi,Indian,All Rounder,,14.0,17.57,155.56,12.0,8.79,5.67,31.4,91.07,21.63,8.71
+7,Sunrisers Hyderabad,Nitish Kumar Reddy,Indian,All Rounder,,45.0,23.67,180.0,18.0,7.89,33.67,69.0,142.92,36.33,11.39
+7,Sunrisers Hyderabad,Shivang Kumar,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Brydon Carse,Overseas,All Rounder,,9.2,20.37,124.33,13.58,9.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Liam Livingstone,Overseas,All Rounder,,25.13,25.39,148.99,17.45,8.73,28.45,35.73,162.46,23.45,9.14
+7,Sunrisers Hyderabad,Jack Edwards,Overseas,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Kamindu Mendis,Overseas,All Rounder,,20.31,66.67,126.62,48.0,8.33,23,30.0,133.34,21.0,8.57
+7,Sunrisers Hyderabad,Eshan Malinga,Overseas,Bowler,,0.0,0.0,0.0,0.0,0.0,0,18.31,0,12.31,8.93
+7,Sunrisers Hyderabad,Pat Cummins,Overseas,Bowler,,10.53,23.58,118.8,19.0,7.44,19.81,30.52,149.71,20.94,8.75
+7,Sunrisers Hyderabad,David Payne,Overseas,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Sakib Hussain,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Onkar Tarmale,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Jaydev Unadkat,Indian,Bowler,,0.0,21.5,0.0,14.86,8.68,12.31,32.21,118.67,21.53,8.98
+7,Sunrisers Hyderabad,Zeeshan Ansari,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,55.5,0,33.83,9.84
+7,Sunrisers Hyderabad,Praful Hinge,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+7,Sunrisers Hyderabad,Amit Kumar,Indian,Bowler,,,,,,,,,,,
+8,Punjab Kings,Shreyas Iyer,Indian,Batter,Captain,30.67,0.0,136.13,0.0,0.0,32.24,0.0,127.48,0.0,7.0
+8,Punjab Kings,Priyansh Arya,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,27.94,0.0,179.25,0.0,0
+8,Punjab Kings,Harnoor Singh,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+8,Punjab Kings,Pyla Avinash,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+8,Punjab Kings,Nehal Wadhera,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,23.33,0.0,140.0,0.0,6.5
+8,Punjab Kings,Vishnu Vinod,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,9.33,-,98.25,-,-
+8,Punjab Kings,Prabhsimran Singh,Indian,Wicket Keeper,,0.0,0.0,0.0,0.0,0.0,22.24,-,146.23,-,-
+8,Punjab Kings,Marco Jansen,Overseas,All Rounder,,16.7,32.44,145.22,22.72,8.57,9.43,35.75,100.0,22.5,9.53
+8,Punjab Kings,Cooper Connolly,Overseas,All Rounder,,6.5,79.0,130.0,48.0,9.88,0,0.0,0,0.0,0
+8,Punjab Kings,Mitchell Owen,Overseas,All Rounder,,24.83,23.0,161.96,12.0,11.5,0,0.0,0.00,0.0,0
+8,Punjab Kings,Marcus Stoinis,Overseas,All Rounder,,31.28,25.24,148.4,17.09,8.86,28.27,29.63,142.01,18.67,9.52
+8,Punjab Kings,Azmatullah Omarzai,Overseas,All Rounder,,15.63,28.6,118.27,20.48,8.38,10.5,46.5,127.27,31.5,8.86
+8,Punjab Kings,Shashank Singh,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,35.25,25.0,161.45,18.0,8.33
+8,Punjab Kings,Suryansh Shedge,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,2.33,0.0,63.64,0.0,13.33
+8,Punjab Kings,Musheer Khan,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,0,27.0,0.00,12.0,13.5
+8,Punjab Kings,Arshdeep Singh,Indian,Bowler,,8.0,18.76,116.13,13.45,8.37,5.8,27.0,72.5,17.95,9.03
+8,Punjab Kings,Yuzvendra Chahal,Indian,Bowler,,3.0,25.09,46.16,18.38,8.19,5.29,22.45,43.02,17.18,7.84
+8,Punjab Kings,Harpreet Brar,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,21.18,35.8,122.63,27.16,7.91
+8,Punjab Kings,Vishal Nishad,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+8,Punjab Kings,Vijaykumar Vyshak,Indian,Bowler,,4.5,24.28,90.0,18.8,7.72,7.0,30.38,116.67,17.77,10.26
+8,Punjab Kings,Yash Thakur,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,-,28.79,-,16.83,10.26
+8,Punjab Kings,Praveen Dubey,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,23.0,91.0,69.7,66.0,8.27
+8,Punjab Kings,Xavier Bartlett,Overseas,Bowler,,30.8,8.31,124.19,17.7,24.65,11,48.0,73.34,30.0,9.6
+8,Punjab Kings,Ben Dwarshuis,Overseas,Bowler,,7.5,19.95,78.95,12.9,9.28,0,0.0,0,0.0,0
+8,Punjab Kings,Lockie Ferguson,Overseas,Bowler,,3.63,16.98,80.56,14.36,7.1,22.67,31.0,147.83,20.76,8.96
+9,Delhi Capitals,Axar Patel,Indian,All Rounder,Captain,19.73,22.19,138.65,18.32,7.27,21.47,30.55,130.88,25.2,7.28
+9,Delhi Capitals,Prithvi Shaw,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,23.95,-,147.47,-,-
+9,Delhi Capitals,Pathum Nissanka,Overseas,Batter,,31.14,0.0,126.56,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,David Miller,Overseas,Batter,,33.24,0.0,140.78,0.0,0.0,36.1,-,139.24,-,-
+9,Delhi Capitals,Karun Nair,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,23.75,-,127.75,-,-
+9,Delhi Capitals,Sahil Parakh,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,Nitish Rana,Indian,Batter,,7.5,0.0,55.56,0.0,0.0,28.34,25.2,135.04,18.0,8.4
+9,Delhi Capitals,Abhishek Porel,Indian,Wicket Keeper,,,,,,,,,,,
+9,Delhi Capitals,KL Rahul ,Indian,Wicket Keeper,,,,,,,,,,,
+9,Delhi Capitals,Ben Duckett,Overseas,Wicket Keeper,,29.28,0.0,153.65,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,Tristan Stubbs,Overseas,Wicket Keeper,,36.14,93.0,156.17,66.0,8.45,36.82,7.25,173.82,6.0,7.25
+9,Delhi Capitals,Sameer Rizvi,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,12.75,-,118.6,-,-
+9,Delhi Capitals,Ashutosh Sharma,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,27.0,-,167.26,-,-
+9,Delhi Capitals,Ajay Mandal,Indian,All Rounder,,,,,,,,,,,
+9,Delhi Capitals,Madhav Tiwari,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,3,0.0,75.00,0.0,0
+9,Delhi Capitals,Vipraj Nigam,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,20.29,32.36,179.75,21.27,9.13
+9,Delhi Capitals,Tripurana Vijay,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,Mukesh Kumar,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,Kuldeep Yadav,Indian,Bowler,,11.75,13.13,75.81,11.76,6.7,15.25,27.45,84.72,20.07,8.21
+9,Delhi Capitals,Auqib Nabi,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+9,Delhi Capitals,Kyle Jamieson,Overseas,Bowler,,19.0,34.94,142.5,22.71,9.23,16.25,29.89,118.18,18.67,9.61
+9,Delhi Capitals,Dushmantha Chameera,Overseas,Bowler,,6.0,26.7,87.18,19.91,8.04,10.75,48.0,153.57,31.33,9.19
+9,Delhi Capitals,Lungi Ngidi,Overseas,Bowler,,8.2,21.47,77.36,14.43,8.93,-,17.92,-,12.96,8.3
+9,Delhi Capitals,Mitchell Starc,Overseas,Bowler,,9.8,23.81,98.0,18.46,7.74,11.67,22.29,96.33,16.29,8.21
+9,Delhi Capitals,T Natrajan,Indian,Bowler,,,,,,,,,,,
+10,Lucknow Super Giants,Rishabh Pant,Indian,Wicket Keeper,Captain,23.25,0.0,127.4,0.0,0.0,35.31,-,148.93,-,-
+10,Lucknow Super Giants,Nicholas Pooran,Overseas,Wicket Keeper,,26.15,0.0,136.4,0.0,0.0,32.16,-,162.29,-,-
+10,Lucknow Super Giants,Josh Inglis,Overseas,Wicket Keeper,,30.28,0.0,164.42,0.0,0.0,30.89,0.0,162.58,0.0,0
+10,Lucknow Super Giants,Himmat Singh,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Ayush Badoni,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,24.38,18.0,134.04,12.5,8.64
+10,Lucknow Super Giants,Akshat Raghuvanshi,Indian,Batter,,,,,,,,,,,
+10,Lucknow Super Giants,Matthew Breetzke,Overseas,Batter,,24.78,0.0,129.43,0.0,0.0,14,0.0,116.67,0.0,0
+10,Lucknow Super Giants,Aiden Markram,Overseas,Batter,,29.34,34.73,145.83,24.4,8.54,30.15,86.0,129.73,60.5,8.53
+10,Lucknow Super Giants,Mukul Choudhary,Indian,Batter,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Abdul Samad,Indian,Batter,,,,,,,,,,,
+10,Lucknow Super Giants,Mitchell Marsh,Overseas,All Rounder,,33.27,22.76,139.98,17.65,7.74,19.56,21.49,127.64,15.14,8.52
+10,Lucknow Super Giants,Arshin Kulkarni,Indian,All Rounder,,0.0,0.0,0.0,0.0,0.0,4.5,-,112.5,-,-
+10,Lucknow Super Giants,Shahbaz Ahmed,Indian,All Rounder,,0.0,20.5,0.0,16.0,7.69,19.14,39.86,121.82,25.57,9.35
+10,Lucknow Super Giants,Wanindu Hasaranga,Overseas,All Rounder,,13.62,15.65,130.04,13.51,6.95,7.2,21.37,98.63,15.77,8.13
+10,Lucknow Super Giants,Akash Singh,Indian,Bowler,,,,,,,,,,,
+10,Lucknow Super Giants,Avesh Khan,Indian,Bowler,,13.5,27.85,135.0,18.48,9.04,20.5,26.68,164.0,18.04,8.87
+10,Lucknow Super Giants,Mohammed Shami,Indian,Bowler,,3.5,28.19,70.0,18.89,8.95,5.69,26.86,93.67,19.1,8.44
+10,Lucknow Super Giants,Prince Yadav,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,75.0,50.00,45.67,9.85
+10,Lucknow Super Giants,Naman Tiwari,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Mayank Yadav,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Digvesh Rathi,Indian,Bowler,,,,,,,,,,,
+10,Lucknow Super Giants,Arjun Tendulkar,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Mohsin Khan,Indian,Bowler,,0.0,0.0,0.0,0.0,0.0,0,0.0,0,0.0,0
+10,Lucknow Super Giants,Manimaran Siddharth,Indian,Bowler,,0,0.0,0,0.0,0,-,71.0,-,54.0,7.89
+10,Lucknow Super Giants,Anrich Nortje,Overseas,Bowler,,2.83,19.17,48.58,16.4,7.01,8.17,26.23,100.0,17.57,8.96
