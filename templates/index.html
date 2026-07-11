@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPL Match Predictor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <!-- ============ SHARED NAV — same block on every page, "active" class moves ============ -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">
+        <span class="brand-mark">IPL</span>
+        MATCH PREDICTOR
+      </div>
+      <div class="nav-links">
+        <a href="/" class="nav-link active">Home</a>
+        <a href="/stats" class="nav-link">Stats</a>
+        <a href="/teams" class="nav-link">Teams</a>
+      </div>
+    </div>
+    <div class="nav-right">
+      <!-- decorative only, not wired to anything yet -->
+      <div class="icon-btn">&#9679;</div>
+      <div class="icon-btn">&#9787;</div>
+    </div>
+  </nav>
+
+  <main class="page">
+    <p class="page-eyebrow">MATCH PREDICTOR</p>
+    <h1 class="page-title">Predict. Compare. <span class="accent">Win the debate.</span></h1>
+    <p class="page-subhead">Pick two teams — the model weighs current form, squad strength, and head-to-head history.</p>
+
+    <!-- Team selection -->
+    <div class="matchup">
+      <div class="team-slot">
+        <div class="team-badge" id="team1-badge">--</div>
+        <div class="team-slot-body">
+          <div class="team-slot-label">TEAM A</div>
+          <select id="team1-select" class="team-select"></select>
+        </div>
+      </div>
+
+      <div class="vs-label">VS</div>
+
+      <div class="team-slot right">
+        <div class="team-badge" id="team2-badge">--</div>
+        <div class="team-slot-body">
+          <div class="team-slot-label">TEAM B</div>
+          <select id="team2-select" class="team-select"></select>
+        </div>
+      </div>
+    </div>
+
+    <button id="predict-btn" class="predict-btn">Predict Winner</button>
+    <p id="error-message" class="error-message"></p>
+
+    <!-- Results -->
+    <section id="results" class="results">
+
+      <div class="result-cards">
+        <div class="result-card" id="result-card-1">
+          <div class="result-team-info">
+            <div class="result-team-badge" id="result-badge-1">--</div>
+            <div class="result-team-name" id="result-name-1">TEAM</div>
+            <div class="result-team-sub" id="result-sub-1">WIN PROBABILITY</div>
+          </div>
+          <div class="ring-wrap">
+            <svg width="64" height="64" viewBox="0 0 64 64">
+              <circle class="ring-track" cx="32" cy="32" r="27"></circle>
+              <circle class="ring-fill" id="ring-1" cx="32" cy="32" r="27" stroke="var(--accent-blue)"></circle>
+            </svg>
+            <div class="ring-pct" id="ring-pct-1">--%</div>
+          </div>
+        </div>
+
+        <div class="result-card" id="result-card-2">
+          <div class="result-team-info">
+            <div class="result-team-badge" id="result-badge-2">--</div>
+            <div class="result-team-name" id="result-name-2">TEAM</div>
+            <div class="result-team-sub" id="result-sub-2">WIN PROBABILITY</div>
+          </div>
+          <div class="ring-wrap">
+            <svg width="64" height="64" viewBox="0 0 64 64">
+              <circle class="ring-track" cx="32" cy="32" r="27"></circle>
+              <circle class="ring-fill" id="ring-2" cx="32" cy="32" r="27" stroke="var(--accent-gold)"></circle>
+            </svg>
+            <div class="ring-pct" id="ring-pct-2">--%</div>
+          </div>
+        </div>
+      </div>
+
+      <p class="verdict"><strong id="verdict-team">--</strong> favoured to win this matchup</p>
+
+      <h3 class="section-label">Match Factors Comparison</h3>
+      <div class="factor-grid" id="factor-grid"></div>
+
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='predict.js') }}"></script>
+</body>
+</html>

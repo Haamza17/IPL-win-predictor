@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Teams — IPL Match Predictor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="nav-left">
+      <div class="brand">
+        <span class="brand-mark">IPL</span>
+        MATCH PREDICTOR
+      </div>
+      <div class="nav-links">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/stats" class="nav-link">Stats</a>
+        <a href="/teams" class="nav-link active">Teams</a>
+      </div>
+    </div>
+    <div class="nav-right">
+      <div class="icon-btn">&#9679;</div>
+      <div class="icon-btn">&#9787;</div>
+    </div>
+  </nav>
+
+  <main class="page">
+    <p class="page-eyebrow">ALL FRANCHISES</p>
+    <h1 class="page-title">The <span class="accent">2026 Lineup</span></h1>
+    <p class="page-subhead">Every team in the league. Click a card to jump straight to a matchup prediction.</p>
+
+    <div class="teams-grid" id="teams-grid">
+      <!-- filled in by teams.js -->
+    </div>
+  </main>
+
+  <script src="{{ url_for('static', filename='teams.js') }}"></script>
+</body>
+</html>

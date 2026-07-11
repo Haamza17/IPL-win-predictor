@@ -38,12 +38,12 @@ def get_stat(stats_list, fn, matchtype, stat_name):
     return None
 
 
-# Step 1: Load your squad file
+#  Load your squad file
 df_sq = pd.read_csv(SQUAD_FILE)
 unique_players = df_sq['player'].unique()
 print(f"Total unique players in squad: {len(unique_players)}")
 
-# Step 2: Load existing progress if it exists AND is not empty
+# Load existing progress if it exists AND is not empty
 if os.path.exists(PROGRESS_FILE) and os.path.getsize(PROGRESS_FILE) > 0:
     df_progress = pd.read_csv(PROGRESS_FILE)
     already_done = set(df_progress['player'])
@@ -53,7 +53,7 @@ else:
     already_done = set()
     print("Starting fresh.")
 
-# Step 3: Figure out who's left
+#Figure out who's left
 remaining_players = [p for p in unique_players if p not in already_done]
 print(f"Remaining players to fetch: {len(remaining_players)}")
 
@@ -68,7 +68,7 @@ for player_name in players_today:
 
     player_id = get_player_id(player_name)
 
-    # ---- If search itself hit the limit, stop immediately ----
+    # If search itself hit the limit, stop immediately 
     if player_id == "LIMIT_REACHED":
         print("Daily API limit reached during player search. Stopping this run.")
         limit_hit = True
@@ -85,7 +85,7 @@ for player_name in players_today:
     response = requests.get(url, params=params)
     data = response.json()
 
-    # ---- SAFETY CHECK 2: stats endpoint (the main one) ----
+    # stats endpoint (the main one) 
     if data.get("status") == "failure":
         print(f"  API returned failure while fetching stats for {player_name}: "
               f"{data.get('informations') or data.get('info')}")
@@ -111,7 +111,7 @@ for player_name in players_today:
     new_results.append(row)
     time.sleep(1)
 
-# Step 4: Save whatever we successfully fetched (even if we stopped early)
+# Save whatever we successfully fetched (even if we stopped early)
 df_new = pd.DataFrame(new_results)
 df_progress = pd.concat([df_progress, df_new], ignore_index=True)
 df_progress.to_csv(PROGRESS_FILE, index=False)
@@ -121,7 +121,7 @@ print(f"Saved progress. Total players fetched so far: {len(df_progress)} / {len(
 if limit_hit:
     print("Stopped early due to hitting the daily API limit. "
           "Run this script again after your quota resets to continue.")
-# Step 5: If everything is fetched, merge with team info and save final file
+# If everything is fetched, merge with team info and save final file
 elif len(df_progress) >= len(unique_players):
     print("All players fetched! Merging with squad/team data...")
     df_final = df_sq.merge(df_progress, on="player", how="left")
